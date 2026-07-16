@@ -1,5 +1,5 @@
 class Solution {
-public:
-    int findNumbers(vector<int>& nums) {
+    public int findNumbers(int[] nums) {
         
     }
+}
